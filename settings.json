@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OutlawMc.aternos.host",
+    "ip": "OutlawMc.aternos.me",
     "port": 24964,
     "version": "",
     "try-creative": false
