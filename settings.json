@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "fangtooth.aternos.host",
+    "ip": "OutlawMc.aternos.host",
     "port": 24964,
     "version": "",
     "try-creative": false
